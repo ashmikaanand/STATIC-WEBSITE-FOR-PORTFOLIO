@@ -16,3 +16,9 @@ Finally, the Contact section provides my email (ashmianand2828@gmail.com
 ) and LinkedIn profile, enabling recruiters and collaborators to connect with me easily.
 
 Through this project, I have gained valuable hands-on experience in web design and development. I have learned how to structure and style web pages, ensure responsiveness across devices, and present my professional profile effectively online. This portfolio is not just a project submission but also a significant step in building my professional identity as a software engineer.
+#OUTPUT OF TASK
+1.<img width="275" height="689" alt="Image" src="https://github.com/user-attachments/assets/c5a65eb2-4a08-4832-80bb-150162b5b384" />
+2.<img width="272" height="678" alt="Image" src="https://github.com/user-attachments/assets/70bc7317-4b8b-4154-9156-1e31c9b9ff89" />
+3.<img width="270" height="679" alt="Image" src="https://github.com/user-attachments/assets/524842a5-5aef-4310-9202-2e39b2ec11ac" />
+4.<img width="269" height="673" alt="Image" src="https://github.com/user-attachments/assets/d4e219e6-f724-4cfd-9b09-291f8f850e0a" />
+5.<img width="274" height="681" alt="Image" src="https://github.com/user-attachments/assets/82f673fe-b2a4-4639-84e7-847c26cd2208" />
