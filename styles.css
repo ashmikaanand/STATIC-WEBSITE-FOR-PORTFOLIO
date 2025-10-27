@@ -1,0 +1,275 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f2e7; /* Light brown shade */
+  color: #3e2f23;
+  line-height: 1.6;
+  scroll-behavior: smooth;
+}
+
+/* Header */
+.header {
+  background: linear-gradient(to right, #c8a165, #e6d0b1);
+  color: #3e2f23;
+  text-align: center;
+  padding: 80px 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.header h1 span {
+  color: #4a3420;
+  font-weight: 700;
+}
+
+.header p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.header .btn {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 10px 25px;
+  background-color: #6f4e37;
+  color: #fff;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.header .btn:hover {
+  background-color: #4a3420;
+  transform: scale(1.05);
+}
+
+/* Section General */
+.section {
+  padding: 60px 20px;
+  max-width: 950px;
+  margin: auto;
+  text-align: center;
+}
+
+.section h2 {
+  color: #4a3420;
+  margin-bottom: 20px;
+  font-size: 28px;
+  position: relative;
+}
+
+.section h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #c8a165;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+/* Paragraph Style */
+.section p {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+/* Skills */
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  list-style: none;
+  margin-top: 20px;
+}
+
+.skills-list li {
+  background-color: #e6d0b1;
+  padding: 12px;
+  border-radius: 10px;
+  font-weight: 500;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.skills-list li:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 10px rgba(0,0,0,0.15);
+  background-color: #f1dfc4;
+}
+
+/* Projects */
+.project {
+  background-color: #f1dfc4;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  text-align: left;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.project h3 {
+  color: #4a3420;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+/* Certifications */
+#certifications ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+#certifications li {
+  margin: 10px 0;
+  padding: 12px;
+  background: #f1dfc4;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: background 0.3s;
+}
+
+#certifications li:hover {
+  background: #e6d0b1;
+}
+
+/* Contact */
+.contact a {
+  color: #6f4e37;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #c8a165;
+  text-align: center;
+  padding: 15px 0;
+  color: #fff;
+  font-weight: 500;
+  margin-top: 30px;
+  box-shadow: 0 -2px 8px rgba(0,0,0,0.1);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .header {
+    padding: 60px 15px;
+  }
+
+  .header h1 {
+    font-size: 30px;
+  }
+
+  .section {
+    padding: 40px 15px;
+  }
+
+  .skills-list {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+
+  .project {
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .header h1 {
+    font-size: 24px;
+  }
+
+  .header p {
+    font-size: 14px;
+  }
+
+  .section h2 {
+    font-size: 22px;
+  }
+
+  body {
+    font-size: 15px;
+  }
+}
+/* 🌐 Responsive Design */
+@media (max-width: 1024px) {
+  .section {
+    padding: 40px 20px;
+  }
+
+  h1 {
+    font-size: 2.2em;
+  }
+
+  h2 {
+    font-size: 1.6em;
+  }
+}
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  header {
+    height: auto;
+    padding: 30px 10px;
+  }
+
+  .btn {
+    padding: 8px 15px;
+    font-size: 0.9em;
+  }
+
+  .skills-list {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .project {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  p {
+    font-size: 0.9em;
+  }
+
+  .skills-list {
+    grid-template-columns: 1fr;
+  }
+
+  .btn {
+    font-size: 0.8em;
+    padding: 7px 12px;
+  }
+}
