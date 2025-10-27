@@ -1,14 +1,26 @@
 # STATIC-WEBSITE-FOR-PORTFOLIO
 COMPANY : CODTECH IT SOLUTIONS
+
 NAME: ASHMIKA AA
+
 INTERN ID: CT04DR997
+
 DOMAIN: SOFTWARE DEVELOPMENT
+
 DURATION : 4 WEEKS
+
 MENTOR: NEELA SANTHOSH
+
 DESCRIPTION OF TASK:
 The aim of this project is to design and develop a personal portfolio static website that effectively showcases my professional profile, technical skills, academic background, and project experience in a visually appealing and user-friendly manner. The main objective of the portfolio is to create a digital representation of my achievements and capabilities that can be easily shared with recruiters, mentors, and evaluators. This project also aims to enhance my practical understanding of front-end web technologies, responsive design, and the importance of personal branding in the digital era.
-The portfolio website is built using HTML and CSS, ensuring that it remains lightweight, efficient, and easy to load across different devices. A light brown color palette has been used to give the website a soft, elegant, and professional look. The design emphasizes simplicity, readability, and smooth navigation. The website includes multiple sections such as About Me, Skills, Projects, Certifications, and Contact Information, each carefully structured to convey information clearly and attractively.
-The About Me section introduces me as Ashmika A.A., a student pursuing M.Tech Integrated Software Engineering. This section highlights my enthusiasm for problem-solving, continuous learning, and participating in technical activities that help me grow both academically and professionally. It reflects my passion for developing innovative solutions and my goal to contribute meaningfully to the field of software engineering.
+
+The portfolio website is built using HTML and CSS, ensuring that it remains lightweight, efficient, and easy to load across different devices. A light brown color palette 
+has been used to give the website a soft, elegant, and professional look. The design emphasizes simplicity, readability, and smooth navigation. The website includes multiple
+sections such as About Me, Skills, Projects, Certifications, and Contact Information, each carefully structured to convey information clearly and attractively.
+
+The About Me section introduces me as Ashmika A.A., a student pursuing M.Tech Integrated Software Engineering. This section highlights my enthusiasm for problem-solving, continuous learning, and participating in technical activities that help me grow both academically and professionally. It reflects my passion for developing innovative 
+solutions and my goal to contribute meaningfully to the field of software engineering.
+
 The Skills section lists my core technical competencies, which include C Programming, Java, Python, HTML, SQL, and Cisco Networking. These skills represent my foundation in software development, web design, and networking concepts. Each skill contributes to my ability to build efficient and secure applications, understand system interactions, and work with different technology stacks.
 The Projects section demonstrates the practical application of my technical skills through real-world projects I have completed. My first project, ShareNGo, is a university-based carpooling application designed to promote eco-friendly travel and convenience among students and staff. The second project, Face Biometric System, is an AI-based authentication system that uses facial recognition for secure and efficient user verification. The third project, Blood Donor Management System, is a web-based platform that connects blood donors and recipients, making the donation process faster and more accessible. Each project reflects my ability to plan, design, and implement innovative solutions using appropriate technologies.
 The Certifications section includes professional recognitions I have earned through internships and online programs. These include a Solution Architect Internship from Forage, a Web Developer Internship from InternPe, a Cybersecurity Internship from Cisco, and a Data Science in MATLAB course certification. These experiences have helped me strengthen my technical knowledge and gain exposure to real-world industry practices.
